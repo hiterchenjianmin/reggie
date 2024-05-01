@@ -1,1 +1,1 @@
-黑马的瑞吉外卖项目，springboot+mybatis plus实战项目
+黑马的瑞吉外卖项目，springboot+mybatis plus的java实战项目
